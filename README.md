@@ -4,19 +4,19 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-- 📱 Especializado en desarrollo de apps móviles con **Sketchware** (Android).
-- 🌐 Desarrollo web con **HTML, CSS, JavaScript**.
-- ⚡ Backend con **Node.js**, **Express**, y bases de datos **MySQL**/**Firebase**/**PostgreSQL**.
-- 🤖 Web scraping en **Python** y **Node.js**.
-- ☁️ Integración de APIs y manejo de servicios en la nube (**Cloudinary**, **Render**, **InfinityFree**).
-- 🖌️ Diseño de UI/UX básico para apps móviles y web.
-- 💡 Apasionado por crear soluciones reales y útiles.
+-  Especializado en desarrollo de apps móviles con **Sketchware** (Android).
+-  Desarrollo web con **HTML, CSS, JavaScript**.
+-  Backend con **Node.js**, **Express**, y bases de datos **MySQL**/**Firebase**/**PostgreSQL**.
+-  Web scraping en **Python** y **Node.js**.
+-  Integración de APIs y manejo de servicios en la nube (**Cloudinary**, **Render**, **InfinityFree**).
+-  Diseño de UI/UX intermedio para apps móviles y web.
+-  Apasionado por crear soluciones reales y útiles.
 
 ---
 
-## 🏆 Mis proyectos favoritos
+##  Mis proyectos favoritos
 
 - **PelisEcno:** Aplicación de películas y series con API propia.
 - **World Chat:** Red social tipo chat desarrollada en Sketchware y versión web.
@@ -25,9 +25,8 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
-![Sketchware](https://sketchware.pro/)
 ![HTML5](https://img.shields.io/badge/-Sketchware-blue?style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
